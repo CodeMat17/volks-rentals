@@ -20,7 +20,7 @@ const Hero = () => {
         <div className='z-30 grid grid-cols-1 md:grid-cols-2 items-center gap-4 px-4 lg:mx-8 max-w-5xl mx-auto'>
           <div className='text-center md:text-start'>
             <Title
-              text='Volks Rental Services'
+              text='Volks Rental Services.'
               classnames='text-4xl sm:text-5xl lg:text-6xl font-bold'
             />
            
